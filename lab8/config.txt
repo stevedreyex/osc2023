@@ -1,0 +1,2 @@
+initramfs ramfs.cpi 0x8000000
+device_tree=dt.dtb

@@ -1,6 +1,9 @@
 {
     "C_Cpp.errorSquiggles": "disabled",
     "files.associations": {
-        "mailbox.h": "c"
+        "mailbox.h": "c",
+        "mm.h": "c",
+        "entry.h": "c",
+        "sched.h": "c"
     }
 }
